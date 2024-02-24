@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zohaibk1019
+- I’m @zohaibk1019
 - data transfer in penguin
 - almost 40 minutes wait to transfer dara
 - account number is 9985678
