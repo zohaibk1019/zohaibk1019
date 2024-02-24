@@ -1,6 +1,6 @@
 - I’m @zohaibk1019
 - data transfer in penguin
-- almost 40 minutes wait to transfer dara
+- almost 40 minutes wait to transfer data
 - account number is 9985678
 - user name zohaib khawar1019
 - create password
